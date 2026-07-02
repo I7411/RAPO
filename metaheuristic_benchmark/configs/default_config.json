@@ -1,0 +1,10 @@
+{
+  "population_size": 100,
+  "max_iterations": 100,
+  "dimension": 100,
+  "runs": 100,
+  "seed_start": 42,
+  "lower_bound": -100.0,
+  "upper_bound": 100.0,
+  "minimization": true
+}

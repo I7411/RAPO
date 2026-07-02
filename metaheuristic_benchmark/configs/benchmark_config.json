@@ -1,0 +1,8 @@
+{
+  "selected_benchmarks": [
+    "Sphere",
+    "Rosenbrock",
+    "Rastrigin",
+    "Ackley"
+  ]
+}

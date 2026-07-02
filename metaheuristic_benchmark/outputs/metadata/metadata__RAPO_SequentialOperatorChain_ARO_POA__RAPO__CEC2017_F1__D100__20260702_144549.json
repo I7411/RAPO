@@ -1,0 +1,29 @@
+{
+    "experiment_name": "Single Run: RAPO_SequentialOperatorChain_ARO_POA on CEC2017_F1",
+    "timestamp": "2026-07-02 14:45:49",
+    "algorithms": [
+        "RAPO_SequentialOperatorChain_ARO_POA"
+    ],
+    "benchmark": "CEC2017_F1",
+    "dimension": 100,
+    "population_size": 10,
+    "max_iterations": 10,
+    "runs": 10,
+    "seed_list": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+    ],
+    "use_evaluation_budget": false,
+    "max_function_evaluations": null,
+    "success_tolerance": 1e-08,
+    "ranking_rule": "rank by mean_error if global_minimum exists, else rank by mean",
+    "cec2017_placeholder_excluded": true
+}
